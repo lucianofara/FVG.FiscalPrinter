@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>FVG.FiscalPrinter.Domain.Entities</AssemblyName>
+    <RootNamespace>FVG.FiscalPrinter.Domain.Entities</RootNamespace>
+  </PropertyGroup>
+
+</Project>

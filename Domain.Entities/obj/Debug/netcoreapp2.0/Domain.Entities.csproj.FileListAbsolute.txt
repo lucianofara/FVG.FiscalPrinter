@@ -1,0 +1,17 @@
+c:\users\f15206\source\repos\FVG.FiscalPrinter\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.csproj.CoreCompileInputs.cache
+c:\users\f15206\source\repos\FVG.FiscalPrinter\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.AssemblyInfoInputs.cache
+c:\users\f15206\source\repos\FVG.FiscalPrinter\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.AssemblyInfo.cs
+C:\Users\f15206\source\repos\FVG.FiscalPrinter\Domain.Entities\bin\Debug\netcoreapp2.0\FVG.FiscalPrinter.Domain.Entities.deps.json
+C:\Users\f15206\source\repos\FVG.FiscalPrinter\Domain.Entities\bin\Debug\netcoreapp2.0\FVG.FiscalPrinter.Domain.Entities.dll
+C:\Users\f15206\source\repos\FVG.FiscalPrinter\Domain.Entities\bin\Debug\netcoreapp2.0\FVG.FiscalPrinter.Domain.Entities.pdb
+C:\Users\f15206\source\repos\FVG.FiscalPrinter\Domain.Entities\obj\Debug\netcoreapp2.0\FVG.FiscalPrinter.Domain.Entities.dll
+C:\Users\f15206\source\repos\FVG.FiscalPrinter\Domain.Entities\obj\Debug\netcoreapp2.0\FVG.FiscalPrinter.Domain.Entities.pdb
+C:\Users\f15206\Documents\Projects\FVG.FiscalPrinter\Domain.Entities\bin\Debug\netcoreapp2.0\FVG.FiscalPrinter.Domain.Entities.deps.json
+C:\Users\f15206\Documents\Projects\FVG.FiscalPrinter\Domain.Entities\bin\Debug\netcoreapp2.0\FVG.FiscalPrinter.Domain.Entities.dll
+C:\Users\f15206\Documents\Projects\FVG.FiscalPrinter\Domain.Entities\bin\Debug\netcoreapp2.0\FVG.FiscalPrinter.Domain.Entities.pdb
+C:\Users\f15206\Documents\Projects\FVG.FiscalPrinter\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.csprojResolveAssemblyReference.cache
+C:\Users\f15206\Documents\Projects\FVG.FiscalPrinter\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\f15206\Documents\Projects\FVG.FiscalPrinter\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\f15206\Documents\Projects\FVG.FiscalPrinter\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.AssemblyInfo.cs
+C:\Users\f15206\Documents\Projects\FVG.FiscalPrinter\Domain.Entities\obj\Debug\netcoreapp2.0\FVG.FiscalPrinter.Domain.Entities.dll
+C:\Users\f15206\Documents\Projects\FVG.FiscalPrinter\Domain.Entities\obj\Debug\netcoreapp2.0\FVG.FiscalPrinter.Domain.Entities.pdb

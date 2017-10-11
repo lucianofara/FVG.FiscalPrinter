@@ -1,0 +1,1 @@
+c:\users\f15206\source\repos\FVG.FiscalPrinter\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

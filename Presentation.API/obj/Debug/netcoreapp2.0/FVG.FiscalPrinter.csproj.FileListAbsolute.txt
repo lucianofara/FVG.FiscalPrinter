@@ -1,0 +1,13 @@
+c:\users\f15206\source\repos\FVG.FiscalPrinter\FVG.FiscalPrinter\bin\Debug\netcoreapp2.0\FVG.FiscalPrinter.deps.json
+c:\users\f15206\source\repos\FVG.FiscalPrinter\FVG.FiscalPrinter\bin\Debug\netcoreapp2.0\FVG.FiscalPrinter.runtimeconfig.json
+c:\users\f15206\source\repos\FVG.FiscalPrinter\FVG.FiscalPrinter\bin\Debug\netcoreapp2.0\FVG.FiscalPrinter.runtimeconfig.dev.json
+c:\users\f15206\source\repos\FVG.FiscalPrinter\FVG.FiscalPrinter\bin\Debug\netcoreapp2.0\FVG.FiscalPrinter.dll
+c:\users\f15206\source\repos\FVG.FiscalPrinter\FVG.FiscalPrinter\bin\Debug\netcoreapp2.0\FVG.FiscalPrinter.pdb
+c:\users\f15206\source\repos\FVG.FiscalPrinter\FVG.FiscalPrinter\obj\Debug\netcoreapp2.0\FVG.FiscalPrinter.csprojResolveAssemblyReference.cache
+c:\users\f15206\source\repos\FVG.FiscalPrinter\FVG.FiscalPrinter\obj\Debug\netcoreapp2.0\FVG.FiscalPrinter.csproj.CoreCompileInputs.cache
+c:\users\f15206\source\repos\FVG.FiscalPrinter\FVG.FiscalPrinter\obj\Debug\netcoreapp2.0\FVG.FiscalPrinter.AssemblyInfoInputs.cache
+c:\users\f15206\source\repos\FVG.FiscalPrinter\FVG.FiscalPrinter\obj\Debug\netcoreapp2.0\FVG.FiscalPrinter.AssemblyInfo.cs
+c:\users\f15206\source\repos\FVG.FiscalPrinter\FVG.FiscalPrinter\obj\Debug\netcoreapp2.0\FVG.FiscalPrinter.dll
+c:\users\f15206\source\repos\FVG.FiscalPrinter\FVG.FiscalPrinter\obj\Debug\netcoreapp2.0\FVG.FiscalPrinter.pdb
+c:\users\f15206\source\repos\FVG.FiscalPrinter\FVG.FiscalPrinter\bin\Debug\netcoreapp2.0\FVG.Fiscal.Printer.Domain.Entities.dll
+c:\users\f15206\source\repos\FVG.FiscalPrinter\FVG.FiscalPrinter\bin\Debug\netcoreapp2.0\FVG.Fiscal.Printer.Domain.Entities.pdb

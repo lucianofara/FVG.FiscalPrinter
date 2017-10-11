@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  fvg.fiscalprinter:
+    image: fvg.fiscalprinter
+    build:
+      context: ./FVG.FiscalPrinter
+      dockerfile: Dockerfile
